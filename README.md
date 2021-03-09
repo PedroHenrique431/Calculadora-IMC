@@ -1,16 +1,15 @@
-# imc
+# IMC_CALC
 
-A new Flutter project.
+Acativo desenvolvido para cálculo do IMC de modo simples, intuitivo e rápido.
 
-## Getting Started
+<div align="center">
+<img src="./imc/assets/imc_1" alt="dmc_1" height="425">
+</div>
 
-This project is a starting point for a Flutter application.
+# 🚀 Tecnologias e Programas Utilizados
 
-A few resources to get you started if this is your first Flutter project:
+🛠 Flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+🛠 VsCode
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠 Photoshop

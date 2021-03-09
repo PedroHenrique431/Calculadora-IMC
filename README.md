@@ -3,11 +3,11 @@
 Acativo desenvolvido para cálculo do IMC de modo simples, intuitivo e rápido.
 
 <div align="center">
-<<<<<<< HEAD
-<img src="./imc/assets/imc_1" alt="dmc_1" height="425">
-=======
-<img src="https://ibb.co/Jk6xtKG" alt="dmc_1" height="425">
->>>>>>> 590c3abefe249f55abd4f81926c86e68c8ad55e9
+<img src="./assets/imc_1.png" alt="dmc_1" height="425">
+<img src="./assets/imc_2.png" alt="dmc_1" height="425">
+<img src="./assets/imc_3.png" alt="dmc_1" height="425">
+<img src="./assets/imc_4.png" alt="dmc_1" height="425">
+<img src="./assets/imc_gif.gif" alt="dmc_1" height="425">
 </div>
 
 # 🚀 Tecnologias e Programas Utilizados

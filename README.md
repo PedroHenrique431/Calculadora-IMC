@@ -1,6 +1,6 @@
 # IMC_CALC
 
-Acativo desenvolvido para cálculo do IMC de modo simples, intuitivo e rápido.
+Aplicativo desenvolvido para cálculo do IMC de modo simples, intuitivo e rápido.
 
 <div align="center">
 <img src="./assets/imc_1.png" alt="dmc_1" height="425">
